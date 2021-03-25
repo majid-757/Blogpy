@@ -1,0 +1,8 @@
+# win stuff
+.idea/
+
+
+# virtual Env
+
+venv/
+
