@@ -4,9 +4,17 @@
 
 # virtual Env
 venv/
+blogpy/__pycache__/
+
 
 # database
 db.sqlite3
 
 # Migrations
 personblog/migrations/
+
+# Credentials
+.env
+
+# Static Files
+files/
