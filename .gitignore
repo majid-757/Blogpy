@@ -18,3 +18,4 @@ personblog/migrations/
 
 # Static Files
 files/
+staticfiles/
