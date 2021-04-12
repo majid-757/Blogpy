@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'ckeditor',
     'personblog',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
